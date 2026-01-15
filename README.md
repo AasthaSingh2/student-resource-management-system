@@ -43,9 +43,9 @@ LocalWP (Local Development Environment)
 📸 Screenshots
 Home Page
 
-Study Resources Page
+![Home Page](screenshots/frontend.png)
 
-📌 Screenshots are stored in the screenshots/ folder.
+ (Screenshots are stored in the screenshots/ folder).
 
 📁 Project Structure
 student-resource-management-system/
@@ -150,3 +150,4 @@ GitHub: AasthaSingh2
 
 This project is for educational purposes.
 You are free to use, modify, and learn from it.
+
